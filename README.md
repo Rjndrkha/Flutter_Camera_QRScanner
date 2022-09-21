@@ -8,7 +8,7 @@ ___
 ![Screenshot (2597)](https://user-images.githubusercontent.com/75615789/191410030-24d42e2e-229f-48eb-a690-b5b277e8537b.png)
 
 ## Hasil Praktikum
-
+[Screenshot (2597)](images/ss1.gif)
 
 
 * Halaman QR Code, terdapat beberapa button
